@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - astropy
-  - matplotlib
+  - matplotlib=3.8
   - numba
   - numpy
   - pathlib
