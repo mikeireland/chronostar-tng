@@ -13,7 +13,7 @@ dependencies:
   - pytest
   - python=3.9
   - pyyaml
-  - scikit-learn
+  - scikit-learn=1.1
   - scipy
   - threadpoolctl
 prefix: /Users/tcrundall/opt/anaconda3/envs/chron39
